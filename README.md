@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/alain-datouo-32221b303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fred-tchiadeu-67a97a24b" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,dart,c,cpp,html,css,ts,tailwind,spring,flutter,docker,figma,firebase,postgres,git,postman,linux,unreal,unity,arduino,angular" />
@@ -20,7 +19,7 @@
 </p>
 
 <h3 alin="left"> IDEA: </h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=clion,androidstudio,idea,pycharm,webstorm" />
   </a>
