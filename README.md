@@ -13,8 +13,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,dart,c,cpp,html,css,ts,tailwind,spring,flutter,docker,figma,firebase,postgres,git,postman,linux,unreal,unity,arduino,angular" />
+  </a>
+</p>
+
+<h3 alin="left"> IDEA: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=clion,androidstudio,idea,pycharm,webstorm" />
   </a>
 </p>
