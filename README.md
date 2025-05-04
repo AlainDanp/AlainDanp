@@ -15,6 +15,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,dart,c,cs,html,css,ts,nextjs,tailwind,django,spring,flutter,docker,figma,firebase,supabase,postgres,laravel,git,postman,linux,vercel,unreal,unity,arduino,webstorm,idea,rider,androidstudio,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=python,java,dart,c,cpp,html,css,ts,nextjs,tailwind,django,spring,flutter,docker,figma,firebase,supabase,postgres,laravel,git,postman,linux,vercel,unreal,unity,arduino,webstorm,idea,rider,androidstudio,visualstudio" />
   </a>
 </p>
